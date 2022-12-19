@@ -1,0 +1,59 @@
+
+  .squ{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	border-radius: 10px;
+	padding: 15px 25px;
+	box-sizing: border-box;
+	
+	margin: 10px 195px;
+	background-color: rgb(14, 11, 11);
+	background-position: center;
+	background-size: cover;
+	
+}
+
+.squ1{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	border-radius: 10px;
+	padding: 15px 25px;
+	box-sizing: border-box;
+	
+	margin: 10px 15px;
+	background-color: rgb(14, 11, 11);
+	background-position: center;
+	background-size: cover;
+	
+}
+
+.squ3{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	border-radius: 10px;
+	padding: 15px 25px;
+	box-sizing: border-box;
+
+	margin: 10px 195px;
+	background-color: rgb(14, 11, 11);
+	background-position: center;
+	background-size: cover;
+	
+}
+.squ4{
+    width: 150px;
+	height: 150px;
+	display: inline-block;
+	border-radius: 10px;
+	padding: 15px 25px;
+	box-sizing: border-box;
+	
+	margin: 10px 15px;
+	background-color: rgb(14, 11, 11);
+	background-position: center;
+	background-size: cover;
+	
+}

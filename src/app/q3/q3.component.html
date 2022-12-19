@@ -1,0 +1,14 @@
+
+<hr>
+<h1>Question 3</h1>
+
+<h1>Enter Your Phone Number</h1>
+<input #index1
+(keyup.enter)="addphone(index1.value)" type="tel" required >
+
+<button type="button" (click)="addphone(index1.value)" [hidden]="isupdated">Add Phone Number</button>
+
+<button type="button" (click)="addphone(index1.value)" [hidden]="isupdated1">Add Another Phone Number</button>
+
+
+ 
